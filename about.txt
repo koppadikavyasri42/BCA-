@@ -1,3 +1,0 @@
-Name:Kavya sri
-Course:BCA
-Abut gitHub: the one thing that i learned about github is. github is a repository to store the projects and files.
